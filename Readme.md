@@ -125,7 +125,7 @@ streamlit run app.py
  <img width="1615" height="822" alt="image" src="https://github.com/user-attachments/assets/a250b955-7bc4-4086-a488-f92327bb762c" />
 
 
-### 2. Monthly Revenue & Category Breakdown
+### 2. Revenue breakdown and category 
 
 <img width="1637" height="517" alt="image" src="https://github.com/user-attachments/assets/63b73074-4d61-4a45-8049-3723800596eb" />
 
